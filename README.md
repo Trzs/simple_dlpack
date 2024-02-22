@@ -7,7 +7,6 @@ To build it, run:
 ```
 git clone https://github.com/Trzs/simple_dlpack.git
 cd simple_dlpack
-git clone https://github.com/pybind/pybind11.git
 mkdir build
 cd build
 cmake ..
