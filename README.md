@@ -14,7 +14,7 @@ cmake ..
 make
 ```
 
-How to use it:
+Python example:
 ```
 >>> import simple_dlpack
 >>> import torch
